@@ -6,4 +6,7 @@ Initially we'll use an arduino to read temperature profiles from an SD card, (ta
 Then turn on the oven and measure the oven/part temperature using this thermocouple https://www.sparkfun.com/products/307,
 making sure the temperature curve follows the desired temp profile by turning the oven fan on and off again.
 Will hopefully add an android app as a GUI at some point.
-Haven't started yet, so can't provide a very useful readme at this point :)
+
+To get the code to compile, you need to download this PID-library: http://playground.arduino.cc/Code/PIDLibrary
+
+
